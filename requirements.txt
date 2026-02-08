@@ -1,0 +1,9 @@
+PyQt6==6.6.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+pysocks==1.7.1
+httpx==0.25.1
+aiohttp==3.9.1
+pydantic==2.12.5
+pydantic-settings==2.1.0
